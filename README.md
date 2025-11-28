@@ -54,3 +54,9 @@ February,52000,380,1350,4.3
 - Creating visualizations with Plotly
 - Reading and working with CSV files
 - Calculating business metrics (KPIs)
+
+## Screenshots
+
+![Dashboard Overview](screenshot%201.png)
+
+![Dashboard Charts](screenshot%202.png)
