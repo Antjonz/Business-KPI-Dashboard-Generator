@@ -108,7 +108,7 @@ else:
     st.markdown("""
     ### 📝 Required CSV Format:
     Your CSV file should have these columns:
-    - **Month**: Month name (e.g., January, February)
+    - **Month**: Month name (e.g., January, February, March)
     - **Revenue**: Revenue amount
     - **Sales**: Number of sales
     - **Customers**: Number of customers
